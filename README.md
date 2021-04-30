@@ -10,4 +10,4 @@ CS 362 - In class activity #3
   * raises (PyTest) / AssertRaises (unittest)
   * assert (PyTest) / AssertEqual (unittest)
   * plus many more!
-  Another difference that I found was that, as mentioned, PyTest is good for Functional and API testing, whereas unittest is more optimal for automated unit testing
+    Another difference that I found was that, as mentioned, PyTest is good for Functional and API testing, whereas unittest is more optimal for automated unit testing
